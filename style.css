@@ -14,3 +14,9 @@ header {
 body {
     background-color: #cffce9;
 }
+.container {
+    width: 90%;
+    height: 500px;
+    background-color: #6828cf;
+    margin: 45px auto;
+}
