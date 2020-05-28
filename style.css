@@ -20,3 +20,11 @@ body {
     background-color: #6828cf;
     margin: 45px auto;
 }
+#schedule {
+    width: 100%;
+    border-collapse: collapse;
+    box-sizing: border-box;
+}
+#schedule thead th{
+    border: 1px solid black;
+}
