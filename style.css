@@ -16,7 +16,6 @@ body {
 }
 .container {
     width: 90%;
-    height: 500px;
     background-color: #6828cf;
     margin: 45px auto;
 }
@@ -25,6 +24,10 @@ body {
     border-collapse: collapse;
     box-sizing: border-box;
 }
-#schedule thead th{
+#schedule thead th, td{
     border: 1px solid black;
+    height: 40px;
+}
+#schedule td {
+    text-align: center;
 }
